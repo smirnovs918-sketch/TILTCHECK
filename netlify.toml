@@ -1,0 +1,6 @@
+[[redirects]]
+  from = "/api/faceit/*"
+  to = "https://open.faceit.com/data/v4/:splat"
+  status = 200
+  force = true
+  headers = {Authorization = "Bearer 1eee7be7-b219-4938-b425-129964d72441"}
